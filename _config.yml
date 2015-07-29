@@ -7,9 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Octet-stream
 tagline:          'Personal blog to talk all things software'
-description:      'I work as a software engineer for Location Labs'
 url:              http://github.com/narenst
 baseurl:          /
 

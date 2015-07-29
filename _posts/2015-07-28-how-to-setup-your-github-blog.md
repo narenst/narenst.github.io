@@ -3,10 +3,9 @@ layout: post
 title: How to setup your blog using jekyll on github
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+I wanted a simple blog setup to write occasional posts on software development. I decided to use Github to host it. Then I found a that 
+[Jekyll](http://jekyllrb.com) is the tool [recommended by Github](https://help.github.com/articles/using-jekyll-with-pages/) to create 
+blogs. For my blog I picked the [Hyde](https://github.com/poole/hyde) theme for Jekyll.
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool and one we encourage you to use here with Hyde.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+I'm not sure what you should expect from this blog other than that they will be related to software development but you never know. 
+So check back in a few.
