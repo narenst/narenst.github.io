@@ -18,21 +18,53 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: narenst
+github_username:  narenst
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+minimal_mistakes_skin: "contrast"
+name: "Naren Thiagarajan"
+title: "Entropy in the Clouds"
+title_separator: "|"
+description: "Personal site sharing my interests and knowledge as a software builder"
+url: "https://narenst.github.io"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+
+author:
+  name: "Naren Thiagarajan"
+  avatar: "/assets/naren_square.jpg"
+  bio: "Co-founder / CTO @ [<ins>FloydHub</ins>](https://www.floydhub.com), YCombinator alum, Stanford CS grad. [<ins>More about me</ins>](/about)"
+  location: San Francisco
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/narenst"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/narenst"
+
+include:
+  - _pages/
+
+atom_feed:
+  hide: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
