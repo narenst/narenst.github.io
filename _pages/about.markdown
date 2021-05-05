@@ -12,6 +12,4 @@ I have more than 8 years of experience in this area. I'm the co-founder and CTO 
 I was the Director of Engineering at [Avast](https://www.avast.com/en-us/index) before and I have a MS in CS degress from Stanford.
 
 This is my personal site where I write about cloud computing, AI and sometimes tech in general. I will also 
-share my side projects here. You can reach me at n <at> naren.st. I love chatting about infrastructure, cloud 
-and tech and helping folks with their problems. If you have something to talk abour or questions on anything, 
-feel free to reach out!
+share my side projects here. I love chatting about infrastructure, cloud and tech and helping folks with their problems. If you have something to talk abour or questions on anything, [feel free to reach out](/contact)!

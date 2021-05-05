@@ -50,18 +50,18 @@ defaults:
 author:
   name: "Naren Thiagarajan"
   avatar: "/assets/naren_square.jpg"
-  bio: "Co-founder / CTO @ [<ins>FloydHub</ins>](https://www.floydhub.com), YCombinator alum, Stanford CS grad. [<ins>More about me</ins>](/about)"
+  bio: "Co-founder / CTO @ [<ins>FloydHub</ins>](https://www.floydhub.com), YCombinator alum, Stanford CS grad. [<ins>More about me ></ins>](/about)"
   location: San Francisco
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:naren.st@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/narenst"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/narenst"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/narenst"
 
 include:
   - _pages/

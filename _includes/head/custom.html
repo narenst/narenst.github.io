@@ -1,7 +1,17 @@
+<!-- Site Font -->
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans+JP&family=Open+Sans&family=PT+Serif&family=Tenor+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
 
+<!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
 <link rel="manifest" href="/assets/favicon/site.webmanifest">
+
+<!-- Simple analytics; to see if folks are actually visiting the site! -->
+<!-- Enabled only in jekyll -->
+
+{% if jekyll.environment == "production" %}
+    <script data-goatcounter="https://narenst.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+{% endif %}

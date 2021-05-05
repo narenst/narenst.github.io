@@ -5,6 +5,7 @@ author_profile: true
 read_time: true
 toc: true
 toc_label: Contents
+toc_sticky: true
 excerpt: This article provides in-depth guidance on setting up ML infrastructure in AWS. Read this to learn how to use the AWS resources efficiently and reduce spending.
 permalink: /aws-cost-optimization-for-ml/
 ---

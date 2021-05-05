@@ -5,3 +5,5 @@ main:
     url: /consulting/
   - title: "Blog"
     url: "/year-archive/"
+  - title: "Contact Me"
+    url: "/contact/"
