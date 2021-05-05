@@ -37,8 +37,6 @@ I have worked with companies at the different stages of AI adoption and provide 
 
 I also have over 10 years of management experience. I can help with building out and scaling your AI engineering team based on your needs.
 
-[ add https://www.goatcounter.com/ analytics]
-
 ## Projects
 
 ### Infinity

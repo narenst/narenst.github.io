@@ -9,3 +9,9 @@
 <link rel="manifest" href="/assets/favicon/site.webmanifest">
 
 <!-- Simple analytics; to see if folks are actually visiting the site! -->
+<!-- Enabled only in jekyll -->
+
+{% if jekyll.environment == "production" %}
+    <script data-goatcounter="https://narenst.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+{% endif %}
