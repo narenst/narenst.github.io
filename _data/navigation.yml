@@ -1,9 +1,0 @@
-main:
-  - title: "Consulting"
-    url: /consulting/
-  - title: "Blog"
-    url: "/year-archive/"
-  - title: "About"
-    url: /about/
-  - title: "Contact Me"
-    url: "/contact/"
